@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1caa2f7-22e2-419a-b06a-87868b5b5241" name="Default Changelist" comment="" />
+    <list default="true" id="5d8ce74d-ac15-4d13-800f-372be6fe0a7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MIT_2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_8.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson1.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +27,10 @@
       <executable />
     </execution>
   </component>
-  <component name="ProjectId" id="1XKj6Vfuiz5EdDjsQ9CugzrbF3a" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XQbOm3ZEAUU7Db26MoAb97bbAj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +40,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,12 +63,21 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1caa2f7-22e2-419a-b06a-87868b5b5241" name="Default Changelist" comment="" />
-      <created>1580801504425</created>
+      <changelist id="5d8ce74d-ac15-4d13-800f-372be6fe0a7a" name="Default Changelist" comment="" />
+      <created>1580981235223</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580801504425</updated>
-      <workItem from="1580801506069" duration="3508000" />
+      <updated>1580981235223</updated>
+      <workItem from="1580981236704" duration="32000" />
+      <workItem from="1581058181250" duration="1738000" />
+      <workItem from="1581060230861" duration="4249000" />
+      <workItem from="1581064510964" duration="5000" />
+      <workItem from="1581316183302" duration="8040000" />
+      <workItem from="1581487532226" duration="1320000" />
+      <workItem from="1581489405301" duration="9329000" />
+      <workItem from="1581571188296" duration="144000" />
+      <workItem from="1581574678847" duration="9571000" />
+      <workItem from="1581661007458" duration="6386000" />
     </task>
     <servers />
   </component>
@@ -53,9 +85,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog" timestamp="1580801929928">
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog" timestamp="1581661801832">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="332" y="296" width="351" height="144" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1580801929928" />
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1581661801832" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1581661007448">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1581661007448" />
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1581576193830">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1581576193830" />
   </component>
 </project>

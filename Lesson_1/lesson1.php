@@ -25,6 +25,15 @@ echo $company1;
 echo $company2;
 echo $company3;
 
+//Concatenation/Joining
+//joining a variale and variable: use the dot operator
+echo $company1.$company2;
+$car1 = "Benz ";
+$car2 = "Toyota<br>";
+echo $car1." ".$car2."<br>";
+
+//joining a string and a variable
+echo "I love $car1 & $car2 "
 
 
 

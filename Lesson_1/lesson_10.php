@@ -1,0 +1,91 @@
+<?php
+//Complete PHP FORM
+//algorithm
+//1.  create variables that will store recieved data
+$username = $first_name = $last_name = $email = $password1 = $password2 = $gender = '';
+//2. create variables that will store error messages
+$username_err = $first_name_err = $last_name_err = $email_err = $password1_err = $password2_err = $gender_err = '';
+//3. Processing incoming data
+    //3.1 check the request method
+if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+    //3.2 clean the data
+    $username = clean($_POST['username']);
+    $username = clean($_POST['first_name']);
+    $username = clean($_POST['last_name']);
+    $username = clean($_POST['email']);
+    $username = clean($_POST['password1']);
+    $username = clean($_POST['password2']);
+    $username = clean($_POST['gender']);
+
+    //3.3 check if data is empty
+//if true assign error messages to respective error variables
+    if (empty($username)) {
+        $username_err = "Please fill in your username";
+    }
+    if (empty($first_name)) {
+        $first_name_err = "Please fill in your first name";
+    }
+    if (empty($last_name)) {
+        $last_name_err = "Please fill in your last name";
+    }
+    if (empty($email)) {
+        $email_err = "Please fill in your email";
+    }
+    if (empty($password1)) {
+        $password1_err = "Please fill in your password";
+    }
+    if (empty($password2)) {
+        $password2 = "Please confirm password";
+    }
+// check of password1 and password2 are matching
+    if ($password1 != $password2) {
+        $password1_err = 'Your passwords do not match';
+    }
+    if (empty($gender)) {
+        $gender_err = "Please select your gender";
+        echo ' DETAILS: Username: $username, Name:$first_name $last_name, email:$email ,password: $password2, Gender: $gender ';
+    }
+}
+//4. display the data: SOON store data in a database
+function clean($data){
+    $data = trim($data);
+    $data = stripslashes($data);
+    $data = htmlspecialchars($data);
+    return $data;
+}
+?>
+
+<form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF'])?>" method="post" enctype="multipart/form-data"></form>
+<fieldset>
+    <h3>Register here..</h3>
+    <label for="">Username</label><br>
+    <input type="text" name="username"><br>
+    <span class="error" style="color: orangered"><?php echo $username_err?></span><br>
+
+    <label for="">First_name</label><br>
+    <input type="text" name="First name"><br>
+    <span class="error" style="color: orangered"><?php echo $first_name_err?></span><br>
+
+    <label for="">Last_name</label><br>
+    <input type="text" name="Last name"><br>
+    <span class="error" style="color: orangered"><?php echo $last_name_err?></span><br>
+
+    <label for="">Email</label><br>
+    <input type="email" name="email"><br>
+    <span class="error" style="color: orangered"><?php echo $email_err?></span><br>
+
+    <label for="">Password</label><br>
+    <input type="password" name="pass1"><br>
+    <span class="error" style="color: orangered"><?php echo $password1_err?></span><br>
+
+    <label for="">Confirm</label><br>
+    <input type="password" name="pass2"><br>
+    <span class="error" style="color: orangered"><?php echo $password2_err?></span><br>
+
+    Gender:
+    <input type="radio" name="gender" value="male">Male
+    <input type="radio" name="gender" value="male">Female
+    <input type="radio" name="gender" value="male">Other<br><br>
+    <button type="submit" >Signup</button>
+
+</fieldset>
