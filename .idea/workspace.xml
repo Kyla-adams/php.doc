@@ -2,20 +2,79 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d8ce74d-ac15-4d13-800f-372be6fe0a7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MIT_2020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_11.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson_1/lesson_9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson_1/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/bootstrap-4.4.1-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/online_shopping/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/banner1.png.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/dish2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/gd.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/house1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/js2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/kt2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/large-screenshot3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/images/pyrest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/products.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/signup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/simple-app-master/update_handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MIT2020Morning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MIT2020Morning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MIT_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MIT_2020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_1/lesson1.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_10.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_11.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_11.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_2.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_3.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_5.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_5.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_6.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_7.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_7.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_8.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson_1/lesson_9.php" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_1/lesson_9.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +86,34 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XQbOm3ZEAUU7Db26MoAb97bbAj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,6 +121,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projects/online_shopping" />
+      <recent name="$PROJECT_DIR$/projects" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -78,24 +159,42 @@
       <workItem from="1581571188296" duration="144000" />
       <workItem from="1581574678847" duration="9571000" />
       <workItem from="1581661007458" duration="6386000" />
+      <workItem from="1581668777249" duration="773000" />
+      <workItem from="1581674780148" duration="85000" />
+      <workItem from="1581919827098" duration="12002000" />
+      <workItem from="1582002796616" duration="11966000" />
+      <workItem from="1582090843460" duration="2161000" />
+      <workItem from="1582093424169" duration="53000" />
+      <workItem from="1582093577583" duration="10710000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog" timestamp="1581661801832">
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog" timestamp="1582097883850">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1581661801832" />
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1581661007448">
+    <state x="332" y="296" width="351" height="148" key="NewPhpFileDialog/0.0.1024.741@0.0.1024.741" timestamp="1582097883850" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1582090892951">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
-    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1581661007448" />
+    <state x="205" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.741@0.0.1024.741" timestamp="1582090892951" />
+    <state x="175" y="163" key="run.anything.popup" timestamp="1582011960230">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="175" y="163" key="run.anything.popup/0.0.1024.741@0.0.1024.741" timestamp="1582011960230" />
     <state x="175" y="62" width="672" height="678" key="search.everywhere.popup" timestamp="1581576193830">
       <screen x="0" y="0" width="1024" height="741" />
     </state>
     <state x="175" y="62" width="672" height="678" key="search.everywhere.popup/0.0.1024.741@0.0.1024.741" timestamp="1581576193830" />
+    <state x="237" y="285" width="542" height="167" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581929308843">
+      <screen x="0" y="0" width="1024" height="741" />
+    </state>
+    <state x="237" y="285" width="542" height="167" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1024.741@0.0.1024.741" timestamp="1581929308843" />
   </component>
 </project>
