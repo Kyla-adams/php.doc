@@ -1,0 +1,40 @@
+#auth-form{
+    border: 1px solid #393939;
+    box-shadow: 2px 2px 2px 2px #cccccc;
+    border-radius: 20px;
+    margin-top: 40px;
+    padding: 10px 28px;
+}
+#th{
+    margin-top: 40px;
+    padding: 10px 20px;
+}
+#cardi{
+    height: 300px;
+    width: 400px;
+}
+#section{
+    background-color: #17a2b8;
+    text-align: center;
+    font-family: "Helvetica Neue";
+}
+body{
+    background-color: black;
+}
+.define{
+    border-radius: 2px 2px 2px 2px;
+    box-shadow: 20px 5px;
+}
+.sem{
+    text-decoration: none;
+}
+.field{
+    position: center;
+    box-shadow: 20px 20px ;
+    border-radius: 10px;
+    text-align: center;
+}
+.nike{
+    text-align:center ;
+    position:center ;
+}
